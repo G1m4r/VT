@@ -1,0 +1,6 @@
+<?php
+$api_key = ''; //put your API Key here
+
+$av = ['CLEAN MX', 'DNS8','OpenPhish','VX Vault','ZDB Zeus','ZCloudsec','PhishLabs','Zerofox','K7AntiVirus','FraudSense','Virusdie External Site Scan','Quttera','AegisLab WebGuard','MalwareDomainList','ZeusTracker','zvelo','Google Safebrowsing','Kaspersky','BitDefender','Opera','Certly','G-Data','C-SIRT','CyberCrime','SecureBrain','Malware Domain Blocklist','MalwarePatrol','Trustwave','Web Security Guard','CyRadar','desenmascara.me','ADMINUSLabs','Malwarebytes hpHosts','Dr.Web','AlienVault','Emsisoft','Rising','Malc0de Database','malwares.com URL checker','Phishtank','Malwared','Avira','NotMining','StopBadware','Antiy-AVL','Forcepoint ThreatSeeker','SCUMWARE.org','Comodo Site Inspector','Malekal','ESET','Sophos','Yandex Safebrowsing','Spam404','Nucleon','Sucuri SiteCheck','Blueliv','Netcraft','AutoShun','ThreatHive','FraudScore','Tencent','URLQuery','Fortinet','ZeroCERT','Baidu-International','securolytics','CyRadar
+','NotMining','Websense ThreatSeeker','Webutation'];
+?>
